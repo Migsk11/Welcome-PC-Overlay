@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\ProjectOverlay\\front_wpf\\front_wpf.csproj": {}
+    "H:\\ProjectOverlay\\Welcome-PC-Overlay\\front_wpf.csproj": {}
   },
   "projects": {
-    "H:\\ProjectOverlay\\front_wpf\\front_wpf.csproj": {
+    "H:\\ProjectOverlay\\Welcome-PC-Overlay\\front_wpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\ProjectOverlay\\front_wpf\\front_wpf.csproj",
+        "projectUniqueName": "H:\\ProjectOverlay\\Welcome-PC-Overlay\\front_wpf.csproj",
         "projectName": "front_wpf",
-        "projectPath": "H:\\ProjectOverlay\\front_wpf\\front_wpf.csproj",
+        "projectPath": "H:\\ProjectOverlay\\Welcome-PC-Overlay\\front_wpf.csproj",
         "packagesPath": "C:\\Users\\77Dek\\.nuget\\packages\\",
-        "outputPath": "H:\\ProjectOverlay\\front_wpf\\obj\\",
+        "outputPath": "H:\\ProjectOverlay\\Welcome-PC-Overlay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\77Dek\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,14 @@
         "net10.0-windows": {
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.9, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
