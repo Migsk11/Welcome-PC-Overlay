@@ -1,0 +1,2 @@
+H:\ProjectOverlay\Welcome-PC-Overlay\bin\Release\net10.0-windows\win-x64\publish\front_wpf.pdb
+H:\ProjectOverlay\Welcome-PC-Overlay\bin\Release\net10.0-windows\win-x64\publish\front_wpf.exe

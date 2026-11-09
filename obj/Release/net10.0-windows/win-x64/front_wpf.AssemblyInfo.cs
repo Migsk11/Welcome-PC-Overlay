@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("front_wpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fea364320e9ce4dedd6af839a17c7a14c4ceba9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("front_wpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("front_wpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
