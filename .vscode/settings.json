@@ -1,0 +1,19 @@
+{
+    "customFileOrder.rules": {
+        ".": {
+            "order": [
+                ".vscode",
+                "bin",
+                "obj",
+                "App.xaml.cs",
+                "App.xaml",
+                "AssemblyInfo.cs",
+                "front_wpf.csproj",
+                "MainWindow.xaml",
+                "MainWindow.xaml.cs",
+                "private-folder-alias.json",
+                ".gitignore"
+            ]
+        }
+    }
+}

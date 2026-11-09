@@ -1,0 +1,19 @@
+{
+  ".": [
+    ".vscode",
+    "bin",
+    "obj",
+    "Styles",
+    "App.xaml",
+    "App.xaml.cs",
+    "MainWindow.xaml",
+    "MainWindow.xaml.cs",
+    "front_wpf.csproj",
+    "AssemblyInfo.cs",
+    ".gitignore",
+    "private-folder-alias.json"
+  ],
+  "Styles": [
+    "MainWindowStyle.xaml"
+  ]
+}

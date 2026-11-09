@@ -1,0 +1,17 @@
+{
+    "App.xaml": {
+        "description": "General Config - Visual"
+    },
+    "App.xaml.cs": {
+        "description": "General Config - Logics"
+    },
+    "front_wpf.csproj": {
+        "description": "Project Proprietiers"
+    },
+    "MainWindow.xaml": {
+        "description": "Visual for MainWindow"
+    },
+    "MainWindow.xaml.cs": {
+        "description": "Logic for MainWindow"
+    }
+}
